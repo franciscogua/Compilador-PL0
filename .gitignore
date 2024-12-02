@@ -1,0 +1,8 @@
+/nbproject/private/
+/build/
+/test/
+
+*.log
+*.bak
+*.swp
+*.tmp
